@@ -1,0 +1,17 @@
+{
+    "exercises":{
+        "curls":{
+            "joints":["elbow","shoulder","wrist"],
+            "angles":[160,30]
+        },
+        "squats":{
+            "joints":["hip", "knee", "ankle"],
+            "angles":[160,90]
+        },
+        "extensions":{
+            "joints":["elbow","shoulder","wrist"],
+            "angles":[160,30]
+
+        }
+    }
+}
